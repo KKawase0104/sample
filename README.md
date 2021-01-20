@@ -1,2 +1,2 @@
 # sample
-sample2
+sample master
